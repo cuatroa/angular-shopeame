@@ -1,6 +1,4 @@
-# ProyectoA
+Proyecto Angular Shopeame
 
-Upgrade Hub
-Adriám, Nitin y Juan
-
-Comentario Nitin prueba
+Adrian Andres 2020.
+Upgrade Hub.
