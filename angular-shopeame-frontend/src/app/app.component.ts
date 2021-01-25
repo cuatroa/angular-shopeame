@@ -1,3 +1,4 @@
+import { ShopeameService } from './shopeame.service';
 import { Component } from '@angular/core';
 
 @Component({

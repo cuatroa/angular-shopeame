@@ -1,0 +1,9 @@
+<div class="container">
+  <h1>Listado de productos</h1>
+  <input type="text" placeholder="Buscador" name="searchName" [(ngModel)]="searchName">
+</div>
+<div class="row">
+  <div *ngFor="let product of products | search:searchName" class="col-12 col-md-3">
+    <app-product [product]="product"></app-product>
+  </div>
+</div>

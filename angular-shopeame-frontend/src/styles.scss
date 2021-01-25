@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap-grid';
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #cccccc;
+    margin: auto;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}

@@ -1,0 +1,24 @@
+.menu {
+    background: #FFC970;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.menu-links {
+    font-size: 14px;
+    color: #444444;
+    display: inline-flex;
+    flex-direction: column;
+    padding: 10px 30px;
+    align-items: center;
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 0 4px;
+}
+
+.menu-active {
+    color: #2b77fa;
+    background: rgba(239,239,239,0.3);
+}
